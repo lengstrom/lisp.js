@@ -1,2 +1,2 @@
-# lispy.js
+# lisp.js
 JavaScript Lisp interpreter
